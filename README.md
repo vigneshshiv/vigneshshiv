@@ -17,9 +17,9 @@ As a reluctant developer, I fled from a tradional path and explored my creativit
 
 Today, I knack for critical thinking, empathy and creativity to create viable and impactful solutions using these technologies.
 
-- 🔭 I’m currently working on building some cool stuff's for B2C products. 
+- 🔭 I’m currently working on building some cool stuff's for B2C products
 - 📫 How to reach me: **vigneshshiv** is my default username for all social media
-- ⚡ Fun fact: When I'm not firefighting at work / busy in coding, I love to Drive to hills station to engage with nature and improving my photography skills
+- ⚡ Fun fact: When I'm not firefighting at work / busy in coding, I would love to drive to hills station to engage with nature and improving my photography skills
 
 **I think one should never stop learning and go through a process of acquiring knowledge**
 
