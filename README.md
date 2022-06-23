@@ -30,7 +30,7 @@ Today, I knack for critical thinking, empathy and creativity to create viable an
 
 
 | <a href="https://github.com/vigneshshiv/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vigneshshiv&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vignesh Shiv's github stats" /></a> | <a href="https://github.com/vigneshshiv/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshshiv&layout=compact&theme=buefy&hide_border=true" /></a> |
-
+| ------------- | ------------- |
 
 #### Top Repositories
 <a href="https://github.com/vigneshshiv/vigneshshiv.github.io">
