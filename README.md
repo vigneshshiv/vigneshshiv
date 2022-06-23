@@ -23,10 +23,26 @@ Today, I knack for critical thinking, empathy and creativity to create viable an
 
 **I think one should never stop learning and go through a process of acquiring knowledge**
 
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-<a href="https://github.com/vigneshshiv/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vigneshshiv&show_icons=true&hide=contribs,stars&cache_seconds=86400&theme=vue&icon_color=0366d6&title_color=0366d6" />
+
+| <a href="https://github.com/vigneshshiv/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vigneshshiv&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vignesh Shiv's github stats" /></a> | <a href="https://github.com/vigneshshiv/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshshiv&layout=compact&theme=buefy&hide_border=true" /></a> |
+
+
+#### Top Repositories
+<a href="https://github.com/vigneshshiv/vigneshshiv.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vigneshshiv&repo=vigneshshiv.github.io&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshshiv&hide=DIGITAL%20Command%20Language&layout=compact" />
+
+<br />
+<br />
+
+<a href="https://twitter.com/vikyshiv">
+  <img align="right" alt="Vignesh Shiv | Twitter" width="21px" src="https://raw.githubusercontent.com/vigneshshiv/vigneshshiv/master/assets/twitter.svg" />
+</a>
+<a href="https://codesandbox.io/u/vigneshshiv">
+  <img align="right" alt="Vignesh Shiv | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/vigneshshiv/vigneshshiv/master/assets/codesandbox.svg" />
 </a>
