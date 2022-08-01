@@ -15,12 +15,14 @@ I would like to work on challenging Freelance projects. Till now, I've worked on
 
 As a reluctant developer, I fled from a tradional path and explored my creativity through trying my hands on various techniques and software. Software is more than just a tool, and I try to dig deep into it. 
 
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif?raw=true" width="500" height="320" />
-
 Today, I knack for critical thinking, empathy and creativity to create viable and impactful solutions using these technologies.
 
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif?raw=true" width="500" height="320" />
+
 - 🔭 I’m currently working on building some cool stuff's for B2C products
+
 - 📫 How to reach me: **vigneshshiv** is my default username for all social media
+
 - ⚡ Fun fact: When I'm not firefighting at work / busy in coding, I would love to drive to hills station to engage with nature and improving my photography skills
 
 **I think one should never stop learning and go through a process of acquiring knowledge**
