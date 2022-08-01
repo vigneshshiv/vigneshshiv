@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-#### My name is **Vignesh Shiv 🚀**. I'm a Full-Stack Software Engineer. Expertise in building scalable Microservices architecture applications.
+#### My name is **Vignesh Shiv**. I'm a Full-Stack Software Engineer. Expertise in building scalable Microservices architecture applications.
 
 Having 8+ Years of experience in Banking, Airline and Automobile Industry. I'm very passionate about innovative approach of Clean, Scalable, High performance and easily understandable code. 
 
@@ -14,6 +14,8 @@ I prefer to write **Back-end** code, but I can do front-end if needed.
 I would like to work on challenging Freelance projects. Till now, I've worked on Microservices based on Java, Spring Boot, Reactive, AOP, Azure and custom built Front-end framework. 
 
 As a reluctant developer, I fled from a tradional path and explored my creativity through trying my hands on various techniques and software. Software is more than just a tool, and I try to dig deep into it. 
+
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif?raw=true" width="500" height="320" />
 
 Today, I knack for critical thinking, empathy and creativity to create viable and impactful solutions using these technologies.
 
@@ -25,8 +27,11 @@ Today, I knack for critical thinking, empathy and creativity to create viable an
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="angular" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" alt="vscode" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="20" alt="github" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
 
 
 | <a href="https://github.com/vigneshshiv/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vigneshshiv&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vignesh Shiv's github stats" /></a> | <a href="https://github.com/vigneshshiv/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshshiv&layout=compact&theme=buefy&hide_border=true" /></a> |
