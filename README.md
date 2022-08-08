@@ -11,7 +11,7 @@ Having 8+ Years of experience in Banking, Airline and Automobile Industry. I'm v
 I prefer to write **Back-end** code, but I can do front-end if needed. 
 **Java, JavaScript** is my programming language of choice.
 
-I would like to work on challenging Freelance projects. Till now, I've worked on Microservices based on Java, Spring Boot, Reactive, AOP, Azure and custom built Front-end framework. 
+I would like to work on challenging open source projects. Till now, I've worked on Microservices based on Java, Spring Boot, Reactive, AOP, Azure and custom built Front-end framework. 
 
 As a reluctant developer, I fled from a tradional path and explored my creativity through trying my hands on various techniques and software. Software is more than just a tool, and I try to dig deep into it. 
 
