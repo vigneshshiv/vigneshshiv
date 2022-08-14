@@ -38,7 +38,7 @@ Today, I knack for critical thinking, empathy and creativity to create viable an
 <code><img height="20" alt="github" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
 
 
-| <a href="https://github.com/vigneshshiv/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vigneshshiv&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vignesh Shiv's github stats" /></a> | <a href="https://github.com/vigneshshiv/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshshiv&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vigneshshiv&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vignesh Shiv's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshshiv&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
