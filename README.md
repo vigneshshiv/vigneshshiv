@@ -44,11 +44,6 @@ Today, I knack for critical thinking, empathy and creativity to create viable an
 <br />
 <br />
 
-![Profile Views](https://komarev.com/ghpvc/?username=vigneshshiv)
-
-<a href="https://twitter.com/vikyshiv">
-  <img align="right" alt="Vignesh Shiv | Twitter" width="21px" src="https://raw.githubusercontent.com/vigneshshiv/vigneshshiv/master/assets/twitter.svg" />
-</a>
 <a href="https://github.com/vigneshshiv">
-  <img align="right" alt="Vignesh Shiv | Profile Views" width="100px" src="https://komarev.com/ghpvc/?username=vigneshshiv" />
+  <img align="left" alt="Vignesh Shiv | Profile Views" width="100px" src="https://komarev.com/ghpvc/?username=vigneshshiv" />
 </a>
