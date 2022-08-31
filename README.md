@@ -50,5 +50,5 @@ Today, I knack for critical thinking, empathy and creativity to create viable an
   <img align="right" alt="Vignesh Shiv | Twitter" width="21px" src="https://raw.githubusercontent.com/vigneshshiv/vigneshshiv/master/assets/twitter.svg" />
 </a>
 <a href="https://github.com/vigneshshiv">
-  <img align="right" alt="Vignesh Shiv | Profile Views" width="200px" src="https://komarev.com/ghpvc/?username=vigneshshiv" />
+  <img align="right" alt="Vignesh Shiv | Profile Views" width="100px" src="https://komarev.com/ghpvc/?username=vigneshshiv" />
 </a>
