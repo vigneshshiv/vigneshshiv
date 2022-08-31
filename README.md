@@ -49,6 +49,6 @@ Today, I knack for critical thinking, empathy and creativity to create viable an
 <a href="https://twitter.com/vikyshiv">
   <img align="right" alt="Vignesh Shiv | Twitter" width="21px" src="https://raw.githubusercontent.com/vigneshshiv/vigneshshiv/master/assets/twitter.svg" />
 </a>
-<a href="https://codesandbox.io/u/vigneshshiv">
-  <img align="right" alt="Vignesh Shiv | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/vigneshshiv/vigneshshiv/master/assets/codesandbox.svg" />
+<a href="https://github.com/vigneshshiv">
+  <img align="right" alt="Vignesh Shiv | Profile Views" width="20px" src="https://komarev.com/ghpvc/?username=vigneshshiv" />
 </a>
