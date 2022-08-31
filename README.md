@@ -42,7 +42,6 @@ Today, I knack for critical thinking, empathy and creativity to create viable an
 | ------------- | ------------- |
 
 <br />
-<br />
 
 <a href="https://github.com/vigneshshiv">
   <img align="left" alt="Vignesh Shiv | Profile Views" width="100px" src="https://komarev.com/ghpvc/?username=vigneshshiv" />
