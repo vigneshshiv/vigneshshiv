@@ -46,7 +46,7 @@ Today, I knack for critical thinking, empathy and creativity to create viable an
 ### 📈 Leetcode Stats
 
 <a href="https://leetcode.com/vigneshshiv/">
-  <img align="left" alt="LeetCode stats" width="400" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?theme=buefy&username=vigneshshiv" />
+  <img alt="LeetCode stats" width="400" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?theme=buefy&username=vigneshshiv" />
 </a>
 
 <br />
