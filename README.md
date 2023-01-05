@@ -18,8 +18,6 @@ As a reluctant developer, I fled from a tradional path and explored my creativit
 
 Today, I knack for critical thinking, empathy and creativity to create viable and impactful solutions using these technologies.
 
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif?raw=true" width="500" height="320" />
-
 - 🔭 I’m currently working on building some cool stuff's for B2C products
 
 - 📫 How to reach me: **vigneshshiv** is my default username for all social media
@@ -27,15 +25,6 @@ Today, I knack for critical thinking, empathy and creativity to create viable an
 - ⚡ Fun fact: When I'm not firefighting at work / busy in coding, I would love to drive to hills station to engage with nature and improving my photography skills
 
 <br />
-
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="angular" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="github" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" alt="vscode" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vigneshshiv&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vignesh Shiv's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshshiv&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
