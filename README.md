@@ -4,11 +4,11 @@
 
 ### Hi there 👋
 
-#### My name is **Vignesh Shiv**. I'm a Cloud Architect & Full-Stack Software Engineer. Expertise in building Enterprise Cloud and Microservices architecture applications.
+#### My name is **Vignesh Shiv**. I'm a Cloud Developer & Full-Stack Software Engineer. Expertise in building Enterprise Cloud and Microservices architecture applications.
 
 Having 9+ Years of experience in Banking, Retail, Airline and Automobile Industry. I'm very passionate about innovative approach of Clean, Scalable, High performance and easily understandable code. 
 
-Hands on experienced with **Java, JavaScript and TypesSript** based applications.
+Hands on experienced with **Java, JavaScript and TypesSript** based applications. Practical knowledge of designing and deploying applications in Azure Platform. 
 
 I would like to work on challenging open source projects. Till now, I've worked on Azure Cloud, Microservices based on Java, Spring Boot, Reactive, AOP, Azure and custom built Front-end framework. 
 
