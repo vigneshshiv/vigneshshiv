@@ -4,33 +4,23 @@
 
 ### Hi there 👋
 
-#### My name is **Vignesh Shiv**. I'm a Cloud Developer & Full-Stack Software Engineer. Expertise in building Enterprise Cloud and Microservices architecture applications.
+#### I'm **Vignesh Shiv** — Gen AI Architect for the enterprise & Manager, Technology.
 
-Having 9+ Years of experience in Banking, Retail, Airline and Automobile Industry. I'm very passionate about innovative approach of Clean, Scalable, High performance and easily understandable code. 
+13 years building software across Banking, Retail, Airline and Automobile, now focused on
+**Generative AI systems for the enterprise**. At the moment I'm **managing a suite of agent
+fleets** — designing and operating multi-agent systems that plan, build, and ship autonomously.
 
-Hands on experienced with **Java, JavaScript and TypesSript** based applications. Practical knowledge of designing and deploying applications in Azure Platform. 
+I architect enterprise-grade **Gen AI applications**: agentic workflows, retrieval-augmented
+generation, and knowledge-graph-grounded reasoning — with a bias for clean, scalable,
+high-performance systems.
 
-I would like to work on challenging open source projects. Till now, I've worked on Azure Cloud, Microservices based on Java, Spring Boot, Reactive, AOP, Azure and custom built Front-end framework. 
+- 🧠 **Specialized in** building Gen AI applications for the enterprise — agent fleets, RAG, and graph-grounded reasoning
+- 🛠️ **Languages:** Python · TypeScript · Java
+- 🤖 **Gen AI stack:** LangChain · LangGraph · Milvus (RAG / embeddings) · Neo4j (knowledge graph) · and more
+- 🏗️ **Background:** Enterprise Cloud & Microservices architecture (Azure, Spring Boot, Reactive)
 
-As a reluctant developer, I fled from a tradional path and explored my creativity through trying my hands on various techniques and software. Software is more than just a tool, and I try to dig deep into it. 
+- 🔭 Currently managing a suite of agent fleets for enterprise Gen AI
+- 📫 How to reach me: **vigneshshiv** — my default handle across social media
+- ⚡ Fun fact: when I'm not orchestrating agents or coding, I'm driving up to a hill station for nature and photography
 
-**I think one should never stop learning and go through a process of acquiring knowledge**
-
-Today, I knack for critical thinking, empathy and creativity to create viable and impactful solutions using these technologies.
-
-- 🔭 I’m currently working on building some cool stuff's for B2C products
-
-- 📫 How to reach me: **vigneshshiv** is my default username for all social media
-
-- ⚡ Fun fact: When I'm not firefighting at work / busy in coding, I would love to drive to hills station to engage with nature and improving my photography skills
-
-<br />
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vigneshshiv&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vignesh Shiv's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshshiv&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-<br />
-
-<a href="https://github.com/vigneshshiv">
-  <img align="left" alt="Vignesh Shiv | Profile Views" width="100px" src="https://komarev.com/ghpvc/?username=vigneshshiv" />
-</a>
+**I believe one should never stop learning.**
